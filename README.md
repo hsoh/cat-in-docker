@@ -11,7 +11,8 @@ More info, see the [docker docs](https://docs.docker.com/).
 ### Prerequisite
 
 ```sh
-docker pull ubuntu
+git clone https://github.com/hsoh/cat-in-docker.git
+cd cat-in-docker
 ```
 
 ### Build
