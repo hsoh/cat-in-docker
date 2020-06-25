@@ -1,10 +1,10 @@
 # Cat in docker
 
-Simple example of using docker volume
+Simple example code for learning docker volume
 
-... with a cat.
+~ with a cat.
 
-more info, see the [docker docs](https://docs.docker.com/).
+More info, see the [docker docs](https://docs.docker.com/).
 
 ## Installation
 
