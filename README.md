@@ -20,7 +20,27 @@ docker pull ubuntu
 docker build -t cat-in-docker .
 ```
 
+### Test
+
+```sh
+docker run -i --rm cat-in-docker
+```
+
+will show
+
+```txt
+                M e o w !!
+
+       Help me, get me out of here!
+
+Please connect outside and inside of the container,
+
+         and let me see the light!
+```
+
 ## Usage
+
+To save the cat, make a tunnel using docker volume.
 
 ### by Docker cli
 
